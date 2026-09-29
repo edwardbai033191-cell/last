@@ -1,0 +1,820 @@
+~12.03.2025
+Watched Intro calls of Jack.
+Challenging point
+What did I do in the last job? Need attractive details.
+Studied 4 resume templates from Eugene, trying to make my own resume as a full stack developer first.
+Last company should be a booming startup company to fit the employers need
+Must include experience of big company
+How to use chatGPT to generate answers whatever I want.
+GPTVersion:
+• Watched Jack’s intro calls to understand the expectations and interview flow.
+• Main challenge: clearly explaining what I did in my last role and making the details more compelling.
+• Reviewed four resume templates from Eugene and started drafting my own full-stack developer resume.
+• My last company should ideally be framed as a fast-growing startup to match what employers look for.
+• I need to show experience from a well-known, reputable company as well.
+• Goal: learn how to use ChatGPT effectively to generate whatever answers I need.
+
+
+12.04.
+Completed first draft of full stack developer resume and challenging point description
+Made an explanation of last job experience and most challenging point.
+GPTVersion
+Completed the first draft of my full-stack developer resume along with a clear description of my most challenging project.
+Wrote a polished explanation of my most recent job experience and the key challenges I solved there.
+
+12.05.
+Updated resume
+Changed company
+Added a main feature experience
+GPTVersion
+Updated my resume with a new company.
+Added a key feature I built to strengthen the experience section.
+
+
+12.07(Weekly).
+My working journey started
+Wrote my first resume
+How to work and live here
+GPTVersion
+Started my working journey here and began settling into the new environment.
+Wrote the first draft of my resume and organized my core experience.
+Spent time figuring out how to work, stay productive, and live comfortably here.
+Why GPT Version?
+a good chance to reduce the gap between my own English and GPT English to improve my English
+A great way to close the gap between my English and GPT-level English and keep improving.
+Created Gmail on bluestack. Otherwise gmail requires QR Code being scanned by real phone.
+Get real person info
+Edward Bai
+
+12.08
+Created LinkedIn on Remote Computer(AnyDesk)
+Add profile photo, history, resume info
+Send invitations to recruiter
+Open to work
+Hide last name
+Hide connections
+Hide email
+www.linkedin.com/in/edward-b-15a5043a0
+Tools
+DeskPins: Make a window always pin to front
+Vitrite: Change transparency of a window : ctrl+shift+[number]
+Chrome: Install page as an app
+Registered some job hunting websites
+
+I set up my LinkedIn profile on a remote computer using AnyDesk.
+I added my profile photo, work history, and resume details, and then sent connection invitations to several recruiters.
+I also enabled Open to Work, hid my last name, hid my connections, and kept my email private.
+My profile link is: linkedin.com/in/edward-b-15a5043a0.
+For tools, I used DeskPins to keep certain windows always on top, and Vitrite to adjust window transparency with Ctrl + Shift + [number].
+I also installed the Chrome page as an app for quick access.
+Lastly, I registered on several job-hunting websites to expand my search.
+
+12.09
+Missed first call.
+I was too nervous and wasn’t able to speak any words!
+How to improve my English and confidence?
+No worries, I just started, I have a long way to go.
+Did a call.
+But I could hardly understand what he was speaking.
+Shared my resume by email.
+
+
+
+
+Applied several jobs
+Did another call but it’s not IT related and she ended quickly.
+Don’t panic, don’t panic, don’t panic!
+Recruiter wanted a more detailed resume and I sent.
+But I couldn’t work onsite. Ended!
+A Chinese recruiter connected me on LinkedIn.
+I am invited to the intro video call. It’s my first video call! I’m excited!
+I missed the first call. I was really nervous and couldn’t say anything. I’m trying to improve my English and build more confidence. No worries though—I’m just getting started, and I know I have a long way to go. I’ve applied to several jobs already.
+I got another call, but it had nothing to do with IT, and she ended it quickly. It’s fine—just stay calm and don’t panic.
+The recruiter requested a more detailed resume, which I provided. However, the position wasn’t remote, so the process ended.
+I got connected with a Chinese recruiter on LinkedIn, and they invited me to an intro video call. It’s my first one, and I’m really excited!
+
+12.10
+Resume update
+The recruiters gave me some advice to update my resume.
+Recruiter Call
+Phone calls from several Indian recruiters
+Meeting with a Chinese recruiter for Chinese-prefered IT team
+
+The recruiters gave me some advice on how to improve my resume.
+Received several phone calls from Indian recruiters.
+Had a meeting with a Chinese recruiter for a Chinese-preferred IT team.
+
+12.11
+Apply on Dice
+Recruiter Call
+Recruiter asked for LinkedIn link and manager name, and he noticed I created LinkedIn this month.
+Said I forgot the details of my experience in previous companies.
+Failed to deceive the recruiter.
+Didn’t understand some words in conversation.
+
+The recruiter asked for my LinkedIn profile and my manager’s name, and he noticed that I had only created my LinkedIn account this month. I told him I couldn’t remember the details of my experience at my previous companies. I wasn’t able to convince him, and I didn’t understand some of the words he used during the conversation.
+
+12.12
+Apply
+Update resume
+LinkedIn connect
+Recruiter call
+First call from an American, not an Indian
+
+12.15
+LinkedIn account restricted accidentally
+Use phone to scan your face
+After failed, contact linkedin team
+Wait until they unrestrict
+Applied in Jobright
+Received 3 recruiter call
+Review devops : Kubernetes
+
+My LinkedIn account was accidentally restricted.
+I tried verifying it by scanning my face on my phone, after it contact the LinkedIn support team and wait until they removed the restriction.
+In the meantime, I applied through Jobright and received three recruiter calls. I’ve also been reviewing DevOps topics, especially Kubernetes.
+
+12.17
+Apply
+Used updated resumes according to job description
+Prepare ppt for tech study
+First video call & voice call, schedule on Google Calendar
+
+12.18
+Apply
+2 Intro call, first video calls with US citizen in my life!
+Problems faced today - IMPORTANT
+- have no idea which companies they work for
+- didn’t understand correctly and not actively responding, just say yes without considering
+- So 2 intro calls are all scheduled at the same time, have to postpone one, even if I was able to arrange the time on the phone call
+- One of them say YOU just CHANGED your MIND within 15 minutes? Cancel or do it as plan
+- I have difficulties with the tools like calender, and I cannot convert the time between time zones easily ☹️
+
+Applied for the opportunity
+Had two intro calls — my first-ever video calls with U.S. citizens
+Problems faced today (important):
+I didn’t know which companies they worked for
+I didn’t fully understand everything and wasn’t responding actively; I just said “yes” without thinking it through
+As a result, both intro calls were scheduled for the same time
+I had to postpone one of them, even though I had already confirmed the time during the phone call
+One person said: “You changed your mind within 15 minutes? Either cancel or do it as planned.”
+I struggle with tools like calendars, and I find it hard to convert times between different time zones ☹️
+
+I CAN DO IT! EVERY DAY A SMALL STEP FORWARD!
+Encouraging & natural: I can do this. Every day, just a small step forward.
+Simple & calm: I can do it—one small step at a time, every day.
+Motivational but not too loud: I’ve got this. Small steps forward every day.
+Friendly & self-talk style: I can do this. Just keep moving forward a little every day.
+
+12.21
+Apply
+Call Review
+
+12.22
+Apply
+Intro call
+Easily noticeable that I’m reading something
+Cannot fill the time before GPT answer accordingly
+Did not set up the camera properly so I look like looking down
+
+12.23
+Apply
+1 Intro, 1 tech
+2 Intro Call Scheduled on 12:30
+Wasn’t ready enough for tech call.
+
+12.26
+Apply
+Study English
+
+12.28
+Apply
+Study English
+
+12.29
+Apply
+Mock Interview with a person
+Study English
+
+12.30
+Intro 2
+The interviewer said that my linkedin profile was created this month and looked like suspicious, ask to meet in person with HR. Let me say a nearby restaurant to go to talk.
+I recorded the whole interview process and watched again. I have to improve my English.
+The interviewer mentioned that my LinkedIn profile was created this month and said it looked a bit suspicious. They asked if I could meet with HR in person, and I suggested a nearby restaurant where we could talk. I recorded the entire interview and watched it again afterward. I realized that I really need to improve my English.
+
+2026.01.05
+Intro 2
+Study English
+
+2026.01.06
+Intro 1 Cancelled
+Intro 1 Didn’t come
+Intro 1 Did
+Study English
+Applied  several roles of one company, they detected and cancelled!
+
+2026.01.07
+Apply
+Start to build new resume
+
+2026.01.08
+Apply
+Assess 1
+
+2026.01.12
+Apply
+Intro 4
+
+2026.01.13
+Apply
+Intro 1
+Assess 1
+Online assessment doesn’t assess just only coding skill, but also judges my approach.
+Not easy to figure out with GPT
+How to seek a real person info on linkedin?
+Search by university -> name -> location …
+After found the info, give the info to the broker to get private info including SSN & DL
+How to find a real person info on LinkedIn.
+Search by university, then name, then location.
+ After finding the right profile, pass the info to a broker who could look up private details like SSN and driver’s license.
+
+2026.01.14
+Apply
+Intro 5
+Interview directly asked colleague contact info, I just answered I have no contact info.
+Said the companies I worked for were very big, asked why I left them and want to work for such a small company? I also didn’t reply well.
+Maybe I didn’t sound like a native, he just ask about my detailed background, failed to answer properly.
+Updated resume, reduced to 1 page
+Did a complex assessment, GPT did a real great job! I can’t believe it!
+During the interview, they directly asked for my colleagues’ contact information. I told them I didn’t have it.
+They also pointed out that the companies I worked for were very large and asked why I left them and why I wanted to join such a small company. I don’t think I answered that very well.
+I might not have sounded like a native speaker, and when they asked about my detailed background, I struggled to explain it clearly.
+I updated my resume and cut it down to one page.
+I also finished a very complex assessment — GPT did an amazing job helping me. I honestly couldn’t believe how well it worked.
+
+2026.01.20
+Coding interview is extremely easy, don’t panic, try not to use GPT.
+I had a coding screen today, I planned to use GPT at the beginning, I didn’t even read the instructions.
+The solution that GPT provided was too structured and long to solve this problem.
+If I read the instructions and did it on myself, I will finish the interview in 20 minutes.
+But it lasts about 1 hour and didn’t do it properly. It was extremely easy!
+Be confident, this is the first time and must be the last time making this kind of mistake.
+
+Why did I do like so?
+Because yeah, I have to read the instructions first. I felt like the instructions were too long and I’m scared to read it.
+The interviewer told me to do something, I didn’t catch it. His instruction was also very easy, I didn’t pay attention to him, Honestly I couldn’t understand what he was saying without caption.
+Be confident! Be confident! Be confident!
+Improve English! Improve English! Improve English!
+
+I did a great job on a home assessment, it was not an easy project, of course chatgpt did it for me, but it was a lot of tasks that need several skills. A call is scheduled for this.
+
+2026.01.21
+Pair code failed
+System design failed
+Pair coding shouldn’t be failed, it was also easy. But I wasn’t confident, didn’t even try to understand the problem, just depended on gpt.
+I found that for this kind of problem, gpt gives kind of wonderful long code.
+If I do it on myself, I can just finish it within 10 lines, and it MUST look like more confident and have much more opportunity to pass.
+Whatever it’s code or system design, the first step is to understand the problem completely.
+Sometimes gpt gives slightly wrong answer and it’s much better to do it by myself.
+
+2026.01.22
+Assessment 1.5 hour
+
+2026.01.23
+Intro
+
+2026.01.26
+Monday, LinkedIn restricted, sent appeal but failed to remove restrict
+Interviewer refuse to move on because cannot access LinkedIn profile
+
+2026.01.27
+Tech
+I didn’t expect it would be a tech interview, she started by asking several questions, I just answered using GPT. Suddenly she said I had to write a code, so she asked me to share the fullscreen. Oh! What should I do? I didn’t take them in the VM, so once I shared the screen I couldn't use GPT. I had to do the coding without GPT.
+It was kind of a tricky algorithm problem, at first I didn’t understand the problem correctly.
+After a few minutes I noticed I misunderstood it and thought again. I didn’t explain properly but I conveyed what I’m thinking. Overall it didn’t go well as expected, but this was the first coding without GPT. Of course I wasn't supposed to do so. After the interview finished, I asked the GPT, and found that my answer and answer of GPT were completely the same! I have a bit of confidence now, if I can explain it properly, coding interviews will be my strongest skill.
+
+2026.01.28
+Intro 2
+2026.02.02
+Trying to build LinkedIn profile
+
+2026.02.03
+I don’t have any LinkedIn accounts that are available now. I just signed up several accounts but it was restricted within 1 day. 🙁 I found that LinkedIn can detect proxies and it’s not a good option to use proxy on local.
+I’m trying to create a new one on remote laptop, but I’m not sure how long it could be alive.
+One takeaway from this is that I have to maintain profiles and LinkedIns as many as possible to be on the safe side.
+
+2026.02.04
+Found a new profile, SSN & DL are ready for it. I’m writing resume and creating LinkedIn account. The most difficult thing is to create and maintain the LinkedIn.
+
+2026.02.05
+Created a new LinkedIn Profile on VPS
+Built Resume for it
+Scheduled first devops interview
+
+2026.02.09
+Create new profile / grow LinkedIn / build resume
+
+2026.02.11
+HR call
+asked star war or star trek? I totally have no idea what he asked.
+They were two typical characters of somehow, maybe science fiction?
+They represents two types of people and there was no right answer. He just wanted to know what kind of person I am.
+Intro call
+The interviewer has a tech guy, because I didn’t have solid tech background, I tried to explain on my word but …
+
+2026.02.12
+Tech call
+What? The interviewer can hear a lot of people saying? Krisp doesn’t work?
+There were some problems before the interview, he couldn’t hear my voice.
+This happened because of using VMware and I got into trouble having the devices worked properly.
+I did the coding pretty well and explained without GPT, I think coding was kind of satisfactory, and it only took about 10 minutes to finish and explain.
+Intro call
+I said some information about the company and the recruiter seemed like to appreciate it.
+I think it’s a very good idea to include some details about the company in the intro or HR call. It must be impressive!
+
+2026.02.13
+Keep in mind that shouldn’t apply multiple roles of the sample company.
+
+2026.02.17
+Intro
+The interviewer said the linkedin link i added to my resume doesn’t work, ask me explanation. I said blablabla, she still had some suspicions.
+She started to pay attention to every details of my speech, she noticed something unusual, said don’t use AI, digged into details, I can’t figure it out, I quited the meeting.
+I don’t need to do some assessment or assignment, they are useless, just wasting time, I’d rather apply more if I have time to do it.
+
+2026.02.18 / 19
+I have few interviews scheduled, I guess the reason is the quantity & quality. I have to put effort to improve the quality of applying, do not apply blindly.
+Trying to increase LinkedIn connection without restriction, bought other’s LinkedIn, I’m going to give it a try. Just update the profile gradually such that it is not flagged by LinkedIn.
+I don’t have a mental framework for English yet.
+
+2026.02.20
+Bought a LinkedIn account, but it’s restricted
+Guess the reason is that sudden change of the credentials(password)
+
+2026.02.23.
+Bought another Linkedin account, cool down it first.
+Intro 1
+
+2026.02.24
+Intro 2
+Mock interview with team members, some sentences are in my head but I can’t speak out them. I get to nervous when I try to say something even in front of them.
+
+2026.02.25
+Intro 1
+
+2026.02.26
+Intro 1
+
+2026.02.27
+Intro 1
+Intro 1 canceled
+
+2026.03.02
+Tech 1
+Intro 1
+
+2026.03.03
+First Interview of new profile is scheduled.
+A system design is scheduled.
+The interview for system design must be done well, but there were some issues.
+This was a very good opportunity for success, I can feel it from the introductory interview but didn’t manage it well. I missed a very good opportunity.
+
+2026.03.04
+Intro 2
+I think the job tracker and jobright extension works quite well.
+
+2026.03.05
+Intro 4
+I had an interview for devops, but the interviewer is likely noticed that something is wrong with me and asked very detailed question. I answered well but once she thought I could be fake, it could be progress any more.
+
+2026.03.06
+For some interviewer, especially for someone who didn’t meet a lot of fraudster, big company resume works pretty well. He said a lot about them and want me to join.
+Because I didn’t pay much attention about the time, I missed a interview and rescheduled.
+It’s important to keep calendar open so that I can get the notice from it.
+
+2026.03.09
+An interview was cancelled due to I didn’t share LinkedIn profile.
+Scheduled Intro 4
+
+2026.03.10
+Some interviewers don’t send invitation through email, they just send time to talk.
+Be careful to remove useless emails, I get loads of emails every day, so I usually used to remove them when it doesn’t contain any links. Recruiters often send email with schedule link, so I did like that. But some interviewers just send email with text. In those case, I have to add the schedule to the calendar manually, this is the same for phone message.
+
+2026.03.11
+I didn’t check the email in time, so didn’t add an interview to calendar, as a result, I missed it, I tried to reschedule it, but failed to make it.
+A unique intro interview.
+The head of HR introduced a lot about them. She said I’m one in the shortlist, they got over 2000 candidates.
+I think the resume match did a nice job for this case.
+
+2026.03.12
+I have a second round interview and it’s a tech intro interview. It seems like have an extra step, but I hope it goes well.
+
+2026.03.16
+Purhasing LinkedIn accounts
+I have to improve my English pronunciation, I can’t even hear my recordings again.
+
+2026.03.17
+Bought 4 LinkedIn, 2 of them are dead. Keep moving for LinkedIn.
+
+2026.03.19
+Interviewer is a specialist, he asked detailed specific questions. He asked some protocols and some commands, He said I answered perfectly that could be impossible and started to ask real experience examples. He detected I’m using AI.
+
+2026.03.20
+Created Linkedin restricted
+Received two invitations for this one, though it only had 6 connections.
+Maybe recruiters didn’t pay too much attention to details.
+But after I sent msg, one of the invitation is cancelled.
+
+2026.03.23
+Intro 1
+
+2026.03.24
+Intro 2
+Tech 1
+Call app disabled at the end of the tech interview, fortunately it was just before saying good bye.
+
+2026.03.25
+Didn’t read interview invite message
+
+2026.03.26
+Must able to start immediately (NOT 2 weeks notice period), must be contract role
+
+2026.03.30
+Tech call, didn’t do according to the request, tried to do better than request, but manager ask to do it, and didn’t explain properly, failed
+
+2026.03.31
+Cancelled 1
+
+2026.04.01
+I didn’t even read the GPT answer properly …
+
+2026.04.02
+Try to schedule interviews in a small time window, saves a lot of time, reduce time fragment, it works much better
+
+2026.04.03
+Intro 1, cancelled 1
+Finished a LinkedIn profile, will try to find another ID and try to make another LinkedIn
+
+2026.04.06
+Intro 3
+It’s a little bit tricky to find a proper ID, with master of science, try to create a temporary profile for searching …
+Finished another simple profile(not linkedin)
+
+2026.04.07
+One of LinkedIn accounts is restricted, due to photo update.
+Tried whole day to find a ID with master, but not found yet. The searching LinkedIn account is dead(Ofc it was expected.)
+Unique jobs are easily scheduled and much easier to pass the interview steps. But also difficult to pass all.
+If it’s complicated and frustrating to apply, must do it. Its applying process is unusual because it’s a unique role.
+
+2026.04.08
+Oh no, only two linkedin profiles are left.
+
+2026.04.09
+Built every thing needed for new profile.
+ID, resume, portfolio, removed all experiences of linkedin, time to add my new experiences
+I prepared for a long time to build this. Hope linkedin keeps alive!
+
+2026.04.13
+Updating linkedin for new profile
+Started to apply with new profile
+
+2026.04.14
+Intro 2
+
+2026.04.16
+Completed a new resume and get almost ready one another linkedin account
+Added this one to new resume and started to bid
+
+2026.04.17
+Oh no, bought 2 linkedin, and can’t access them.
+
+2026.04.20
+Intro 5
+Some calls are scheduled through LinkedIn profile, it started to work.
+But to see if applying with LinkedIn, it takes more time.
+
+2026.04.21
+Intro 3, HR 1
+Those are jobs that applied many days ago without LinkedIn, difficult to pass the first round.
+
+2026.04.22
+Intro 3
+
+2026.04.23
+Intro 1
+First interview with the new profile
+LinkedIn works well
+
+2026.04.24
+Intro 1
+
+2026.04.27
+Intro 1
+
+2026.04.28
+Intro 2
+First interview scheduled with new profile
+
+2026.04.29
+Intro 1
+I guess only the new profile works, other profile need to be update like this one.
+LinkedIn is much better than applying. Try to maintain more linkedin profiles.
+
+2026.04.30
+I made a mistake. When applying I was confused with the names of the profile, and used another name to fill the forms. At the end of the interview, the interviewer asked why the names on linkedin and apply form are different. Should not make this kind of mistake. Double check the chrome profile before applying.
+
+2026.05.01
+Bought several LinkedIn accounts this week, and try not to be hooked by others.
+Will update them next week.
+
+2026.05.04
+Interviews that were scheduled last week are cancelled.
+2026.05.05
+LinkedIn is alive. A lot of messages are coming through linkedin.
+2026.05.06
+A chinese guy contacted through linkedin, said some chinese during the interview.
+Start to bid on the platform, and it’s much easier to apply.
+I guess tailoring a resume makes little difference and will try to use fixed resume.
+It’s also good for incoming call because if I used changed resume, I don’t know which resume I should use.
+2026.05.07
+A new message from AI/ML full stack profile linkedin.
+I didn’t reply to an email from a recruiter, and she said it’s not good for a candidate, and also the phone number is not valid so withdrew the application.
+Try to treat every email carefully. Try to think about their points.
+2026.05.11
+Build a new resume
+Update LinkedIn
+Try to build a new resume according to real experience
+
+
+2026.05.12
+Phone number changed. It’s critical. I’m using the phone number from our platform. And it’s very stable.
+Updated the linkedin name, someone was trying to hook and changed name before, so this was the second try to do that. Unfortunately it’s restricted.
+2026.05.13
+Scheduled 6 interviews, a lot from linkedin
+Some are agency, but I didn’t do well
+2026.05.14
+Another linkedin is restricted due to name change, I guess it’s a good idea to change the name at the very first time.
+AI roles have much more interviews than full stack. I have to update and only make AI profiles.
+2026.05.15
+Did a tech interview, but I didn’t take the interview in the vmware, so when coding I rejoined, but it took a long time to rejoin.
+This led a suspension and they asked what happened and what I did during that time.
+I answered but I guess it’s difficult to treat them.
+I had an idea it could be a tech interview but I didn’t prepare thoroughly. No again!
+
+2026.05.18
+Intro fake detected.
+Because the network is not stable, my voice was in and out and the interviewer asked if I was using google voice voip. She also mentioned my LinkedIn wasn’t verified and ask if I’m comfortable with background check. She also said I didn’t accept her LinkedIn connection request.
+AI Tech failed.
+I researched about the interviewer before the interview and he was a web developer, so I think it wouldn’t be difficult. But I have to explain the current code and do a bug fix, exactly I have to improve the current codebase. It was about agent AI and I had no idea how it works. I also said some improvements, but it didn’t make sense, even I thought it wasn’t good.
+2026.05.19
+Missed one intro
+I thought it was a phone call, and didn’t receive any incoming call at the scheduled time, so I rechecked the calendar and found that it was a zoom call. It was a big mistake… Sent a reschedule request.
+One phone call was ended just after a few words. Maybe he detected something suspicious, I guess the name is European and my voice is Asian and I didn’t respond in time.
+2026.05.20
+I asked to install an app called sherlock for the interview.
+It detects the fraud by inspecting the eye movement and apps running on user side.
+If I run the app, I have no chance to use GPT, so I rejected it.
+Some apps even detect vm.
+I didn’t have the previous chat with the recruiter as context for GPT. The recruiter said the conversation with her and the words I just said didn’t match, I have to explain more about it. Keep the words from the previous interviews.
+2026.05.21
+Ask me to verify linkedin account with company email, which means I can’t bypass this.
+A new profile & linkedin are in ready.
+2026.05.22
+Ask verify linkedin account again. That’s because I said I’m still working there, asked create a new brand new linkedin and verify if I don’t have a linkedin account.
+
+
+2026.05.26
+Intro 1
+Had an intro with a Russian interviewer, maybe because the surname of the profile is Russian.
+2026.05.27
+An Indian guy called me and said that I didn’t update a number(I don’t know what the ID means but something related immigration blablabla), mentioned that I could be related to some illegal activities and need to investigate? And let me go to a website and do something and if I don’t do that I would have to go to the local police station and could be arrested, told not to tell any other people, this was just a conversation between us.
+I gave the whole script and gpt said it was probably a scammer, so when he contacted me again, I just said I don’t want to do anything and talked to him to inform local police ASAP.
+The ratio of detecting fraud is getting higher and higher. A recruiter asks me my manager’s name and searches it on linkedin immediately. He couldn’t find it and asked about my colleagues. I said he was asking weird questions and I was not interested in moving forward with the interview. Another interview failed due to profile confusion caused by myself.
+2026.05.28
+The recruiter searched my profile on linkedin by name and found several similar profiles.
+She said I didn’t have any posts and she found some suspicious relationships with other people on my linkedin account. The client was a government related company and her colleague had some experience from fraud and she wanted to double check.
+I gently said I wasn’t interested in the federal role and let her withdraw my application.
+I didn’t prepare the VM for tech thoroughly. The interviewer sent a link to my email. At that time I’ve already shared my screen. So I should have signed in my email in VM env but I didn’t notice it. The interviewer noticed something unusual and let me share the other screen as well. At this point I realised I did something wrong and signed in the email in VM.
+2026.06.01
+2 Intros
+Interviewers thought I was not the real guy, I have to do something to make a difference.
+Even I can notice the general sense of my answer, let alone the native speakers.
+1 Final
+They knew English is not my primary language and asked some questions.
+The first company in my resume is Expedia, which is quite a big company. They ask how I got a job there just after I graduated. Said professor’s referral. Maybe there are few candidates for this role, low salary …
+2026.06.02
+4 Intros
+A lot of interviewers are trying to avoid interviews with fraud, they’re using a lot of methods to do this. They know resumes are generated by ai so try to ask every details about resume.
+2026.06.04
+An accident happened. Outlook email of one profile is blocked. I guess I set a lot of linkedin emails’ recovery email as it so it was restricted. I sent an appeal request to the support team but they responded that I violated their policy. I couldn’t get any interview updates from that email. I changed one of the gmails I have and sent several messages to the interviewers but I haven’t got any updates yet. Try not to set job hunting emails as recovery emails.
+2026.06.08
+Intro 2
+2026.06.10
+Intro 2
+2026.06.11
+Tech 1
+I checked the mic and camera before the interview in the VM, but the meeting page said I couldn't find the device.
+Cancelled one intro due to mistake on scheduling
+2026.06.12
+Stopped within 2 words, I guess he didn’t hear anything from me, again didn’t set up devices properly.
+2026.06.16
+FAILED SYSTEM DESIGN & CODING INTERVIEW !!!
+SYSTEM DESIGN
+The recruiter emailed that it would be a technical & behavioural interview with 2 managers. I already had a tech interview before and thought it would be just asking technical questions and answering accordingly. In terms of behavioral questions, AI would give good answers. But it was less tech & behavioural interview but more like a system design interview. The interviewer explained an AI system and let me design the architecture. I had to explain in a high level overview first, the main backbone of the system and then give detailed explanations about the components of the system. But I didn’t train the AI properly before the interview, it gave answers like behavioral answers, listing all information in verbal forms. And also I tried several prompts for testing before the interview, but I didn’t remove the prompt for non-tech recruiter interviews, so the first answer didn’t go deep technically, just explained in user perspective. The interviewer asked me to explain from a technical perspective. So from the beginning of the interview, it didn’t go in the right way and I didn’t make any changes and also at that time, I couldn’t make any differences. And I pretended to think about the answer, and didn’t read the answers fluently and I didn’t know how to pronounce some of the technical terms of AI.
+All of those actions caused the interview to wrap up in advance.
+I can’t understand what the interviewer said, I mean the question and also I can’t understand fully the answer that gpt gave me. After reading the first several sentences, I got some understanding about it, but because I don’t have full understanding of the Q&A, I couldn’t even change the whole structure, filter or change sentence styles.
+I know I didn’t answer what they want, but I can’t DO update or DO ANYTHING to deal with it! …
+CODING INTERVIEW
+I did a lot of preparation before the interview, opened 3 gpts.
+The first step code is pretty simple, gpt also gave a simple correct answer and did well.
+The next step update is where something bad happened.
+He explained about it, but I didn’t get what he meant. He gave the sample input/output data. I had to ask or clarify the request and the problem there even if it took some time.
+Because I didn’t get the problem, I became nervous and copied and paste the screenshot to the AI, but it didn’t give the correct answer. I felt that it wouldn’t be the correct answer, but because I didn’t understand the request, I just typed the wrong code.
+I became more nervous and panicked. I gave the problem to other GPT and I gave me the correct answer, at this time, I somehow understood what the question was.
+I removed all of the previous code, of course this is a very bad signal, but I had to do.
+I rewrote the whole part of the code, I also understood the overall high level of the code.
+During the writing code, I did something bad, I didn’t fully copy the code and it was mistake. I thought it was kind of overkill and missed some part of the code in one line.
+I completed the main logic but because it wasn't a full correct answer, it couldn’t show the correct answer. Much more nervous at this time. To be honest, I understand the main idea of the problem but didn’t understand the sample input/output and didn’t understand some part of the code. I had to understand the input/output completely but I didn’t.
+After several minutes, I found that there was something wrong, there I tried to understand the code without debugging, for example using some prints. If I tried that, I would correct it but I didn’t try it. WHY? WHY? WHY? NERVOUS? OR ANY OTHER REASON? … After the interview, I reviewed the recordings and found that just a part of one line of the code caused all of those bad results.
+2026.06.17
+Intro 1, 2 of them are rescheduled or cancelled
+2026.06.18
+Intro 3
+I think all of them went well. At the first interview, the interviewer was trying to check if I was a fraud, let me show the ID card and ask location related questions but I answered well.
+In the next interview, it lasted half an hour and asked a lot of technical questions and it was good.
+In the next one, there was some skill mismatch but overall it went well.
+2026.06.22
+One linkedin account is dead.
+One interview was scheduled but it was not swe role.
+2026.06.23
+Had several interviews, but because I didn’t fully understand what the interviewer saying or what I have to say, all of them didn’t go well.
+2026.06.25
+I thought I failed 2 of my tech interviews but both of them passed. One is final and the other one is the second coding interview. I will do my best to do those interviews. They are the last opportunities in June.
+
+
+2026.06.26
+Tech 1, Final 1
+2026.06.29
+Finally get an offer
+2026.06.30
+Did background check, they asked me to apply to other role during the interview, but I confused the gmail and outlook domain and applied with wrong email.
+They sent offer letter and background check link to the wrong email, but I couldn’t access it. So I created a brand new email with that ID and was able to receive the links.
+2026.07.01
+Intro 1
+Update LinkedIn
+Wrote a small app that combine live caption + AI model + note taker
+2026.07.02
+Intro 3
+First intro with new profile even it doesn’t have many connections and passed intro
+2026.07.03
+Intro 1
+Purchased tinypilot
+2026.07.06
+Intro 2
+Updated the phone wrapper, added small icon appearance when minimized
+Tested the new interview app and I guess it works pretty well
+2026.07.07
+Bought some cables for laptop & tinypilot
+2026.07.08
+Company sent an email about onboarding and i-9
+Laptop is shipped successfully
+2026.07.09
+Had a tech interview, the interviewer is a talented guy, he asked me to say out loud what I think and asked instant follow up questions.
+He said that AI is not good for this kind of tech problems so said do not use AI tools for this interview. It should be done without gpt to pass it.
+2026.07.15
+Interviews started to be scheduled a lot this week
+Updated linkedin a lot, uploaded a photo, also increased activities of the accounts
+I’m not sure if it works but anyway a lot of interviews were scheduled through linkedin
+Found that the DL of the i9 broker is different from those we used to use for
+The i9 broker’s seems to be the latest version
+2026.07.16
+Had an interview with Chinese interviewer
+Because of the Asian time zone had the interview at later evening around 10pm pt.
+It went well but not sure if the team is interested in my profile
+Found a potential reason that slows down the performance on VM
+2026.07.17
+The offer is rescinded.
+The broker mentioned that the onsite I-9 verification needed to be completed at the nearest store and would require some additional time to arrange. Because of this, I requested a one-week postponement of my start date due to a family matter. They agreed to the postponement, but a few days later, when I followed up regarding the onboarding process, I was informed that after further consideration, my offer had been rescinded. I asked for the reason behind the decision, but I have not received any further explanation.
+2026.07.20
+Open to work for onsite/hybrid roles
+Started to have a lot of interview schedules
+3 Interviews
+2026.07.21
+4 Interviews
+When new msgs come in, I try to schedule the call on the day or the next day, this will be better for me and also will have good effects
+2026.07.22
+5 Interviews
+Started to have a lot of interviews
+It is commonly said that July & August is not a good time for job seeking but I guess this isn’t always right
+Fake detected. I guess the interviewer has experienced a lot of fake candidates
+2026.07.23
+7 Interviews
+Some of them are not the very first interviews, sounds good.
+2026.07.24
+6 Interviews scheduled, 1 LinkedIn is dead due to fraud report
+2026.07.27
+5 Interviews
+2026.07.28
+Intro 3
+2026.07.29
+Intro 4
+It feels like most of the interviews are difficult to pass because even I know that my answers are not good and always repeat the same thing. I have to update the career story of all profiles.
+2026.07.30
+Intro 4
+I found that the project details and resume is very poor to do the interviews, so decided to rewrite the whole project detail and resume.
+I’ve done the resume of Matthew Chen and will update Peter Lipay’s early next week.
+2026.07.31
+Intro 2
+Because LinkedIn of Charlie Wang is restricted, bought a new one. I will sign in on Monday and update.
+2026.08.03
+Intro 6
+The LinkedIn is hooked by the owner and I lost access.
+2026.08.04
+Intro 4
+2026.08.05
+Did 1 tech
+It was consist of 3 steps, 1: let code, 2: AI mode explanation, 3: verbal tech
+At the second step, I have to describe a code snapshot, I have to response immediately because the code was very short, but I was fully depend on the AI answer so I couldn’t say instantly. Also at the third step, the interviewer noticed I was saying too general.
+In conclusion, I was not able to pass it.
+2026.08.06
+2 Intro
+2026.08.11
+On linkedin, Some recruiters contacted me, but all are introductory calls.
+2026.08.12
+2 Tech calls
+Both of them are not difficult, something like leetcoding and I was good at this. One of them was done by 3rd party interview company and done through specific interview platform. The thing is the platform was detecting eye movement. Of course I asked gpt the answer and was trying to type what the gpt gave me. I guess the interviewer noticed I was seeing something else.
+I suppose the other one went well.
+2026.08.13
+2 Intro call
+I’m trying to update the full stack profile to data engineer profile
+The full stack profile has some interviews so I’m not going to update it immediately
+2026.08.14
+Unique profile is worth to try? It is regarding salesforce and servicenow.
+I tried it at the very first time and I guess it’s a good idea to try it.
+2026.08.17
+Tech 1
+This tech interview was not that difficult, the interviewer asked several questions and also asked a coding problem.
+It was very easy, getting the second max value in an array.
+He asked my approach and he also knowed it was too easy and didn’t try to let me write code.
+2026.08.18
+Intro 3
+2026.08.19
+Intro 4, Tech 1
+2026.08.20
+Intro 3, Tech 2
+2026.08.24
+Tech 1, Intro 3
+Verbal tech, John Kang linkedin is restricted. Only 2 linkedin accounts are left, I keep buying linkedin but it’s difficult to keep it alive.
+2026.08.25
+Intro 6
+2026.08.26
+Intro 1
+2026.08.27
+Tech 3
+All tech interviews are coding interviews, i think all of them have done well.
+They are all typical coding interviews.
+2026.08.28
+Panel 1, Intro 4
+Originally the panel interview was supposed to be onsite interview. I took a excuse to do it as virtual interview.
+It was several interviews that scheduled in continuously.
+First 1 hour interview was system design, then half an hour interview was behaviral, and last simple one was the interview with manager.
+2026.08.31
+Intro 4
+2026.09.01
+Intro 5, Tech 2
+2 Tech rounds were went well but the LinkedIn account is not active any more.
+Most of interviews have become useless.
+2026.09.02
+Intro 2
+2026.09.03
+Intro 3
+Last week one progress went well and the recruiter said they’re going to extend an offer.
+But he asked a lot of document like utility bills and references.
+I have the broker make the bill and 2 gmails and sent them.
+2026.09.04
+Intro 1
+Had 2 reference calls and it seems like the calls were done well.
+2026.09.08
+Intro 2, Tech 1
+The recruiter contact me before the tech interview and asked some questions and asked me to take off the headset.
+I insisted to put it on due to audio quality and she said she was not sure if it will be allowed.
+During the tech call, they didn’t care about my headset.
+2026.09.09
+Tech 1, Intro 1
+The AI didn’t work well so used other AI for the interview, but it didn’t response promptly.
+The interviewer was a very skilled guy and said the only concern was my response was made after 2-3 seconds after he asked questions. I guess he noticed I’m using AI.
+2026.09.10
+Intro 2
+Keep buying linkedin accounts but I can’t keep any of them alive. Tried several proxies and useless.
+2026.09.11
+Final round with citi went well but it’s a bank company, ofc can’t bypass the background check.
+2026.09.14
+Another technical call with Bloomberg, but  it failed, it was a verbal form of tech call and the interviewer asked a lot of questions promptly.
+Originally i was supposed to get an offer from apexon, but the client has changed or happened something with the client. So they changed the client with AWS and I had to have 2 round of interviews with new client. First round is scheduled today.
+2026.09.15
+The next technical round is scheduled today but I guess it didn’t go so well, he asked a lot of questions regarding the agent of AWS.
+2026.09.16
+Detected that I’m using AI, so the other technical rounds scheduled today are cancelled.
+2026.09.17
+No interviews at all, I only have one linkedin that is usable, but I unactivated the “open to work” batch a few days ago to be on the safe side.
+I put that again, I bought 2 linkedin accounts and will update them if they are not restricted next week.
+
